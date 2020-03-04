@@ -1,0 +1,19 @@
+# -----------------------------------------
+# Syntax colouring for RsbLib demo library
+# -----------------------------------------
+
+# Datatypes (such as objects)
+robot_sumo	KEYWORD1
+
+#Methods / functions
+begin 	KEYWORD2
+AG	KEYWORD2
+AD	KEYWORD2
+Stop	KEYWORD2
+ultrason	KEYWORD2
+Acouleur	KEYWORD2
+Rcouleur	KEYWORD2
+
+# Constants
+
+
